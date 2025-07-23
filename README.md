@@ -95,6 +95,6 @@ Script Python untuk **otomatis mint NFT** di Pharos Testnet menggunakan **multi 
 Gabung dan ikuti info terbaru:
 - 💬 [Telegram](https://t.me/kajijp)
 - 🎮 [Facebook](https://facebook.com/kajijp)
-- 🐦 [X / Twitter](https://x.com/wakkajijp)
+- 🐦 [X / Twitter](https://x.com/kajijepe)
 - ▶️ [Youtube](https://www.youtube.com/@KajiJP)
 
