@@ -42,7 +42,7 @@ Bot otomatis untuk menyelesaikan semua task Pharos Testnet — termasuk check-in
 ### 1. Download atau Clone Repositori
 
 ```
-git clone https://github.com/kajijp/pharos-bot.git
+git clone https://github.com/miracleairdrop/pharos-bot.git
 ```
 ```
 cd pharos-bot && chmod +x setup.sh
@@ -90,11 +90,12 @@ Script Python untuk **otomatis mint NFT** di Pharos Testnet menggunakan **multi 
 ---
 
 <br><br><br>
-🔥 Mohon dukungan agar KajiJP semakin berkembang, like dan gabung ke channel kami, sebarkan dan undang teman anda, terima kasih, Insyaallah JP!
-## 🌐 Komunitas KajiJP
+🔥 Mohon dukungan agar Miracle Airdrop semakin berkembang, like dan gabung ke channel kami, sebarkan dan undang teman anda, terima kasih!
+## 🌐 Komunitas Miracle Airdrop
 Gabung dan ikuti info terbaru:
-- 💬 [Telegram](https://t.me/kajijp)
-- 🎮 [Facebook](https://facebook.com/kajijp)
-- 🐦 [X / Twitter](https://x.com/kajijepe)
-- ▶️ [Youtube](https://www.youtube.com/@KajiJP)
+- 💬 [Telegram](https://t.me/miracleairdrops)
+- 🎮 [Facebook](https://facebook.com/miracleairdrop)
+- 🐦 [X / Twitter](https://x.com/miracle_forum)
+- ▶️ [Youtube](https://www.youtube.com/@miracle_airdrop)
+- 🐙 [Github](https://github.com/miracleairdrop)
 
